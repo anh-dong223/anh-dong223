@@ -1,6 +1,6 @@
 ## Hi there, I'm Anh 👋
 
-I'm currently doing a double in Statistics and Computer Science at the University of Toronto and a software engineering intern at AMD. I'm interested in systems programming, low level systems and robotics. 
+I moved from Vietnam to Canada alone when I was 17 :D! I'm currently doing a double in Statistics and Computer Science at the University of Toronto and a software engineering intern at AMD. I'm interested in systems programming, low level systems and robotics. 
 
 🛠️ Currently, I'm going into my 5th month at AMD as a software engineer working on low level C/C++ firmware and driver software for GPU hardware, with a focus on the hardware video encode stack across RDNA3/RDNA4 GPUs and APUs
 
